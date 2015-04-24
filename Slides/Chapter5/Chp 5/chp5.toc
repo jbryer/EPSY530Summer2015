@@ -1,0 +1,25 @@
+\beamer@endinputifotherversion {3.20pt}
+\select@language {english}
+\beamer@sectionintoc {1}{Paired data}{2}{0}{1}
+\beamer@subsectionintoc {1}{1}{Paired observations}{3}{0}{1}
+\beamer@subsectionintoc {1}{2}{Inference for paired data}{11}{0}{1}
+\beamer@sectionintoc {2}{Difference of two means}{24}{0}{2}
+\beamer@subsectionintoc {2}{1}{Confidence intervals for differences of means}{25}{0}{2}
+\beamer@subsectionintoc {2}{2}{Hypothesis tests for differences of means}{55}{0}{2}
+\beamer@sectionintoc {3}{One-sample means with the $t$ distribution}{66}{0}{3}
+\beamer@subsectionintoc {3}{1}{The normality condition}{80}{0}{3}
+\beamer@subsectionintoc {3}{2}{Introducing the $t$ distribution}{83}{0}{3}
+\beamer@subsectionintoc {3}{3}{Evaluating hypotheses using the $t$ distribution}{90}{0}{3}
+\beamer@subsectionintoc {3}{4}{Constructing confidence intervals using the $t$ distribution}{106}{0}{3}
+\beamer@subsectionintoc {3}{5}{Synthesis}{120}{0}{3}
+\beamer@sectionintoc {4}{The $t$ distribution for the difference of two means}{128}{0}{4}
+\beamer@subsectionintoc {4}{1}{Sampling distribution for the difference of two means}{137}{0}{4}
+\beamer@subsectionintoc {4}{2}{Hypothesis testing for the difference of two means}{138}{0}{4}
+\beamer@subsectionintoc {4}{3}{Confidence intervals for the difference of two means}{149}{0}{4}
+\beamer@subsectionintoc {4}{4}{Recap}{159}{0}{4}
+\beamer@sectionintoc {5}{Comparing means with ANOVA}{163}{0}{5}
+\beamer@subsectionintoc {5}{1}{Aldrin in the Wolf River}{164}{0}{5}
+\beamer@subsectionintoc {5}{2}{ANOVA and the F test}{185}{0}{5}
+\beamer@subsectionintoc {5}{3}{ANOVA output, deconstructed}{187}{0}{5}
+\beamer@subsectionintoc {5}{4}{Checking conditions}{215}{0}{5}
+\beamer@subsectionintoc {5}{5}{Multiple comparisons \& Type 1 error rate}{219}{0}{5}

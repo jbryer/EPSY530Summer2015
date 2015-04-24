@@ -1,0 +1,70 @@
+---
+title: "t-Test-Exercise"
+date: "October 29, 2014"
+output: html_document
+---
+
+```{r echo=FALSE, results='hide'}
+options(width=120)
+options(digits=2)
+```
+
+<table>
+<tr><td>H<sub>0</sub> = </td><td>___________________ </td></tr>
+<tr><td>H<sub>A</sub> = </td><td>___________________ </td></tr>
+<tr><td>&#772;<sub>public</sub> = </td><td>___________________ </td></tr>
+<tr><td>sd<sub>public</sub> = </td><td>___________________ </td></tr>
+<tr><td>n<sub>public</sub> = </td><td>___________________ </td></tr>
+<tr><td>&#772;<sub>private</sub> = </td><td>___________________ </td></tr>
+<tr><td>sd<sub>private</sub> = </td><td>___________________ </td></tr>
+<tr><td>n<sub>private</sub> = </td><td>___________________ </td></tr>
+<tr><td>SE = </td><td>___________________ </td></tr>
+<tr><td>T = </td><td>___________________ </td></tr>
+<tr><td>p < </td><td>___________________ </td></tr>
+<tr><td>CI: </td><td>___________________ </td></tr>
+</table>
+
+
+```{r tdistriution, fig.width=12, fig.height=10, echo=FALSE, results='hide'}
+x <- seq(-4, 4, length=100)
+y <- dt(x,10)
+plot(x, y, type='l', lwd=2, xlab="x value", ylab="Density", main="t Distribution")
+```
+
+```{r setup, results='hide', message=FALSE, echo=FALSE}
+library(pisa)
+library(psych)
+library(xtable)
+
+data(pisa.student)
+data(pisa.school)
+data(pisa.catalog.student)
+data(pisa.catalog.school)
+data(pisa.countries)
+```
+
+```{r PublicPrivateSetup, echo=FALSE, results='hide'}
+# School type (i.e. public or private) is in the school data file. This will
+# merge the data tables so we have that variable for each student.
+pisa.student <- merge(pisa.student, pisa.school[,c('CNT','SCHOOLID','SCHTYPE')], 
+					  by=c('CNT', 'SCHOOLID'), all.x=TRUE)
+# SCHTYPE is a three level factor, we'll convert it to a two level factor
+table(pisa.student$SCHTYPE)
+pisa.student$Public <- ifelse(pisa.student$SCHTYPE == 'Public', 'Public', 'Private')
+# Make sure things look correct.
+table(pisa.student$Public, useNA='ifany')
+# Remove rows with missing school type
+pisa.student <- pisa.student[!is.na(pisa.student$Public),] 
+```
+
+```{r descriptives, results='asis', echo=FALSE}
+tab <- as.data.frame(table(pisa.student$CNT, pisa.student$Public))
+cnts <- unique(tab[tab$Freq < 50,]$Var1)
+tab <- describeBy(pisa.student$PV1MATH, group=list(pisa.student$Public, pisa.student$CNT), 
+		   mat=TRUE)[,c('group2','group1','n','mean','sd')]
+tab <- tab[!tab$group2 %in% cnts,]
+names(tab) <- c('Country', 'School Type', 'n', 'mean', 'sd')
+x <- xtable(tab, caption='Math Score by Country and Public/Private School Status')
+print(x, include.rownames=FALSE, type='html')
+```
+

@@ -1,0 +1,227 @@
+\beamer@endinputifotherversion {3.20pt}
+\headcommand {\slideentry {0}{0}{1}{1/1}{}{0}}
+\headcommand {\beamer@framepages {1}{1}}
+\headcommand {\sectionentry {1}{Paired data}{2}{Paired data}{0}}
+\headcommand {\beamer@sectionpages {1}{1}}
+\headcommand {\beamer@subsectionpages {1}{1}}
+\headcommand {\slideentry {1}{0}{2}{2/2}{}{0}}
+\headcommand {\beamer@framepages {2}{2}}
+\headcommand {\beamer@subsectionentry {0}{1}{1}{3}{Paired observations}}\headcommand {\beamer@subsectionpages {2}{2}}
+\headcommand {\slideentry {1}{1}{1}{3/3}{Paired observations}{0}}
+\headcommand {\beamer@framepages {3}{3}}
+\headcommand {\slideentry {1}{1}{2}{4/5}{Paired observations}{0}}
+\headcommand {\beamer@framepages {4}{5}}
+\headcommand {\slideentry {1}{1}{3}{6/8}{Paired observations}{0}}
+\headcommand {\beamer@framepages {6}{8}}
+\headcommand {\slideentry {1}{1}{4}{9/10}{Paired observations}{0}}
+\headcommand {\beamer@framepages {9}{10}}
+\headcommand {\beamer@subsectionentry {0}{1}{2}{11}{Inference for paired data}}\headcommand {\beamer@subsectionpages {3}{10}}
+\headcommand {\slideentry {1}{2}{1}{11/14}{Inference for paired data}{0}}
+\headcommand {\beamer@framepages {11}{14}}
+\headcommand {\slideentry {1}{2}{2}{15/15}{Inference for paired data}{0}}
+\headcommand {\beamer@framepages {15}{15}}
+\headcommand {\slideentry {1}{2}{3}{16/19}{Inference for paired data}{0}}
+\headcommand {\beamer@framepages {16}{19}}
+\headcommand {\slideentry {1}{2}{4}{20/21}{Inference for paired data}{0}}
+\headcommand {\beamer@framepages {20}{21}}
+\headcommand {\slideentry {1}{2}{5}{22/23}{Inference for paired data}{0}}
+\headcommand {\beamer@framepages {22}{23}}
+\headcommand {\sectionentry {2}{Difference of two means}{24}{Difference of two means}{0}}
+\headcommand {\beamer@sectionpages {2}{23}}
+\headcommand {\beamer@subsectionpages {11}{23}}
+\headcommand {\slideentry {2}{0}{6}{24/24}{}{0}}
+\headcommand {\beamer@framepages {24}{24}}
+\headcommand {\beamer@subsectionentry {0}{2}{1}{25}{Confidence intervals for differences of means}}\headcommand {\beamer@subsectionpages {24}{24}}
+\headcommand {\slideentry {2}{1}{1}{25/25}{Confidence intervals for differences of means}{0}}
+\headcommand {\beamer@framepages {25}{25}}
+\headcommand {\slideentry {2}{1}{2}{26/26}{Confidence intervals for differences of means}{0}}
+\headcommand {\beamer@framepages {26}{26}}
+\headcommand {\slideentry {2}{1}{3}{27/28}{Confidence intervals for differences of means}{0}}
+\headcommand {\beamer@framepages {27}{28}}
+\headcommand {\slideentry {2}{1}{4}{29/29}{Confidence intervals for differences of means}{0}}
+\headcommand {\beamer@framepages {29}{29}}
+\headcommand {\slideentry {2}{1}{5}{30/32}{Confidence intervals for differences of means}{0}}
+\headcommand {\beamer@framepages {30}{32}}
+\headcommand {\slideentry {2}{1}{6}{33/37}{Confidence intervals for differences of means}{0}}
+\headcommand {\beamer@framepages {33}{37}}
+\headcommand {\slideentry {2}{1}{7}{38/43}{Confidence intervals for differences of means}{0}}
+\headcommand {\beamer@framepages {38}{43}}
+\headcommand {\slideentry {2}{1}{8}{44/47}{Confidence intervals for differences of means}{0}}
+\headcommand {\beamer@framepages {44}{47}}
+\headcommand {\slideentry {2}{1}{9}{48/51}{Confidence intervals for differences of means}{0}}
+\headcommand {\beamer@framepages {48}{51}}
+\headcommand {\slideentry {2}{1}{10}{52/53}{Confidence intervals for differences of means}{0}}
+\headcommand {\beamer@framepages {52}{53}}
+\headcommand {\slideentry {2}{1}{11}{54/54}{Confidence intervals for differences of means}{0}}
+\headcommand {\beamer@framepages {54}{54}}
+\headcommand {\beamer@subsectionentry {0}{2}{2}{55}{Hypothesis tests for differences of means}}\headcommand {\beamer@subsectionpages {25}{54}}
+\headcommand {\slideentry {2}{2}{1}{55/57}{Hypothesis tests for differences of means}{0}}
+\headcommand {\beamer@framepages {55}{57}}
+\headcommand {\slideentry {2}{2}{2}{58/63}{Hypothesis tests for differences of means}{0}}
+\headcommand {\beamer@framepages {58}{63}}
+\headcommand {\slideentry {2}{2}{3}{64/65}{Hypothesis tests for differences of means}{0}}
+\headcommand {\beamer@framepages {64}{65}}
+\headcommand {\sectionentry {3}{One-sample means with the $t$ distribution}{66}{One-sample means with the $t$ distribution}{0}}
+\headcommand {\beamer@sectionpages {24}{65}}
+\headcommand {\beamer@subsectionpages {55}{65}}
+\headcommand {\slideentry {3}{0}{4}{66/66}{}{0}}
+\headcommand {\beamer@framepages {66}{66}}
+\headcommand {\slideentry {3}{0}{5}{67/67}{}{0}}
+\headcommand {\beamer@framepages {67}{67}}
+\headcommand {\slideentry {3}{0}{6}{68/72}{}{0}}
+\headcommand {\beamer@framepages {68}{72}}
+\headcommand {\slideentry {3}{0}{7}{73/74}{}{0}}
+\headcommand {\beamer@framepages {73}{74}}
+\headcommand {\slideentry {3}{0}{8}{75/78}{}{0}}
+\headcommand {\beamer@framepages {75}{78}}
+\headcommand {\slideentry {3}{0}{9}{79/79}{}{0}}
+\headcommand {\beamer@framepages {79}{79}}
+\headcommand {\beamer@subsectionentry {0}{3}{1}{80}{The normality condition}}\headcommand {\beamer@subsectionpages {66}{79}}
+\headcommand {\slideentry {3}{1}{1}{80/82}{The normality condition}{0}}
+\headcommand {\beamer@framepages {80}{82}}
+\headcommand {\beamer@subsectionentry {0}{3}{2}{83}{Introducing the $t$ distribution}}\headcommand {\beamer@subsectionpages {80}{82}}
+\headcommand {\slideentry {3}{2}{1}{83/86}{Introducing the $t$ distribution}{0}}
+\headcommand {\beamer@framepages {83}{86}}
+\headcommand {\slideentry {3}{2}{2}{87/89}{Introducing the $t$ distribution}{0}}
+\headcommand {\beamer@framepages {87}{89}}
+\headcommand {\beamer@subsectionentry {0}{3}{3}{90}{Evaluating hypotheses using the $t$ distribution}}\headcommand {\beamer@subsectionpages {83}{89}}
+\headcommand {\slideentry {3}{3}{1}{90/90}{Evaluating hypotheses using the $t$ distribution}{0}}
+\headcommand {\beamer@framepages {90}{90}}
+\headcommand {\slideentry {3}{3}{2}{91/95}{Evaluating hypotheses using the $t$ distribution}{0}}
+\headcommand {\beamer@framepages {91}{95}}
+\headcommand {\slideentry {3}{3}{3}{96/99}{Evaluating hypotheses using the $t$ distribution}{0}}
+\headcommand {\beamer@framepages {96}{99}}
+\headcommand {\slideentry {3}{3}{4}{100/100}{Evaluating hypotheses using the $t$ distribution}{0}}
+\headcommand {\beamer@framepages {100}{100}}
+\headcommand {\slideentry {3}{3}{5}{101/105}{Evaluating hypotheses using the $t$ distribution}{0}}
+\headcommand {\beamer@framepages {101}{105}}
+\headcommand {\beamer@subsectionentry {0}{3}{4}{106}{Constructing confidence intervals using the $t$ distribution}}\headcommand {\beamer@subsectionpages {90}{105}}
+\headcommand {\slideentry {3}{4}{1}{106/108}{Constructing confidence intervals using the $t$ distribution}{0}}
+\headcommand {\beamer@framepages {106}{108}}
+\headcommand {\slideentry {3}{4}{2}{109/111}{Constructing confidence intervals using the $t$ distribution}{0}}
+\headcommand {\beamer@framepages {109}{111}}
+\headcommand {\slideentry {3}{4}{3}{112/115}{Constructing confidence intervals using the $t$ distribution}{0}}
+\headcommand {\beamer@framepages {112}{115}}
+\headcommand {\slideentry {3}{4}{4}{116/117}{Constructing confidence intervals using the $t$ distribution}{0}}
+\headcommand {\beamer@framepages {116}{117}}
+\headcommand {\slideentry {3}{4}{5}{118/119}{Constructing confidence intervals using the $t$ distribution}{0}}
+\headcommand {\beamer@framepages {118}{119}}
+\headcommand {\beamer@subsectionentry {0}{3}{5}{120}{Synthesis}}\headcommand {\beamer@subsectionpages {106}{119}}
+\headcommand {\slideentry {3}{5}{1}{120/122}{Synthesis}{0}}
+\headcommand {\beamer@framepages {120}{122}}
+\headcommand {\slideentry {3}{5}{2}{123/127}{Synthesis}{0}}
+\headcommand {\beamer@framepages {123}{127}}
+\headcommand {\sectionentry {4}{The $t$ distribution for the difference of two means}{128}{The $t$ distribution for the difference of two means}{0}}
+\headcommand {\beamer@sectionpages {66}{127}}
+\headcommand {\beamer@subsectionpages {120}{127}}
+\headcommand {\slideentry {4}{0}{3}{128/128}{}{0}}
+\headcommand {\beamer@framepages {128}{128}}
+\headcommand {\slideentry {4}{0}{4}{129/129}{}{0}}
+\headcommand {\beamer@framepages {129}{129}}
+\headcommand {\slideentry {4}{0}{5}{130/130}{}{0}}
+\headcommand {\beamer@framepages {130}{130}}
+\headcommand {\slideentry {4}{0}{6}{131/132}{}{0}}
+\headcommand {\beamer@framepages {131}{132}}
+\headcommand {\slideentry {4}{0}{7}{133/134}{}{0}}
+\headcommand {\beamer@framepages {133}{134}}
+\headcommand {\slideentry {4}{0}{8}{135/136}{}{0}}
+\headcommand {\beamer@framepages {135}{136}}
+\headcommand {\beamer@subsectionentry {0}{4}{1}{137}{Sampling distribution for the difference of two means}}\headcommand {\beamer@subsectionpages {128}{136}}
+\headcommand {\slideentry {4}{1}{1}{137/137}{Sampling distribution for the difference of two means}{0}}
+\headcommand {\beamer@framepages {137}{137}}
+\headcommand {\beamer@subsectionentry {0}{4}{2}{138}{Hypothesis testing for the difference of two means}}\headcommand {\beamer@subsectionpages {137}{137}}
+\headcommand {\slideentry {4}{2}{1}{138/142}{Hypothesis testing for the difference of two means}{0}}
+\headcommand {\beamer@framepages {138}{142}}
+\headcommand {\slideentry {4}{2}{2}{143/144}{Hypothesis testing for the difference of two means}{0}}
+\headcommand {\beamer@framepages {143}{144}}
+\headcommand {\slideentry {4}{2}{3}{145/146}{Hypothesis testing for the difference of two means}{0}}
+\headcommand {\beamer@framepages {145}{146}}
+\headcommand {\slideentry {4}{2}{4}{147/148}{Hypothesis testing for the difference of two means}{0}}
+\headcommand {\beamer@framepages {147}{148}}
+\headcommand {\beamer@subsectionentry {0}{4}{3}{149}{Confidence intervals for the difference of two means}}\headcommand {\beamer@subsectionpages {138}{148}}
+\headcommand {\slideentry {4}{3}{1}{149/150}{Confidence intervals for the difference of two means}{0}}
+\headcommand {\beamer@framepages {149}{150}}
+\headcommand {\slideentry {4}{3}{2}{151/152}{Confidence intervals for the difference of two means}{0}}
+\headcommand {\beamer@framepages {151}{152}}
+\headcommand {\slideentry {4}{3}{3}{153/158}{Confidence intervals for the difference of two means}{0}}
+\headcommand {\beamer@framepages {153}{158}}
+\headcommand {\beamer@subsectionentry {0}{4}{4}{159}{Recap}}\headcommand {\beamer@subsectionpages {149}{158}}
+\headcommand {\slideentry {4}{4}{1}{159/162}{Recap}{0}}
+\headcommand {\beamer@framepages {159}{162}}
+\headcommand {\sectionentry {5}{Comparing means with ANOVA}{163}{Comparing means with ANOVA}{0}}
+\headcommand {\beamer@sectionpages {128}{162}}
+\headcommand {\beamer@subsectionpages {159}{162}}
+\headcommand {\slideentry {5}{0}{2}{163/163}{}{0}}
+\headcommand {\beamer@framepages {163}{163}}
+\headcommand {\beamer@subsectionentry {0}{5}{1}{164}{Aldrin in the Wolf River}}\headcommand {\beamer@subsectionpages {163}{163}}
+\headcommand {\slideentry {5}{1}{1}{164/167}{Aldrin in the Wolf River}{0}}
+\headcommand {\beamer@framepages {164}{167}}
+\headcommand {\slideentry {5}{1}{2}{168/168}{Aldrin in the Wolf River}{0}}
+\headcommand {\beamer@framepages {168}{168}}
+\headcommand {\slideentry {5}{1}{3}{169/169}{Aldrin in the Wolf River}{0}}
+\headcommand {\beamer@framepages {169}{169}}
+\headcommand {\slideentry {5}{1}{4}{170/172}{Aldrin in the Wolf River}{0}}
+\headcommand {\beamer@framepages {170}{172}}
+\headcommand {\slideentry {5}{1}{5}{173/174}{Aldrin in the Wolf River}{0}}
+\headcommand {\beamer@framepages {173}{174}}
+\headcommand {\slideentry {5}{1}{6}{175/177}{Aldrin in the Wolf River}{0}}
+\headcommand {\beamer@framepages {175}{177}}
+\headcommand {\slideentry {5}{1}{7}{178/178}{Aldrin in the Wolf River}{0}}
+\headcommand {\beamer@framepages {178}{178}}
+\headcommand {\slideentry {5}{1}{8}{179/180}{Aldrin in the Wolf River}{0}}
+\headcommand {\beamer@framepages {179}{180}}
+\headcommand {\slideentry {5}{1}{9}{181/182}{Aldrin in the Wolf River}{0}}
+\headcommand {\beamer@framepages {181}{182}}
+\headcommand {\slideentry {5}{1}{10}{183/184}{Aldrin in the Wolf River}{0}}
+\headcommand {\beamer@framepages {183}{184}}
+\headcommand {\beamer@subsectionentry {0}{5}{2}{185}{ANOVA and the F test}}\headcommand {\beamer@subsectionpages {164}{184}}
+\headcommand {\slideentry {5}{2}{1}{185/185}{ANOVA and the F test}{0}}
+\headcommand {\beamer@framepages {185}{185}}
+\headcommand {\slideentry {5}{2}{2}{186/186}{ANOVA and the F test}{0}}
+\headcommand {\beamer@framepages {186}{186}}
+\headcommand {\beamer@subsectionentry {0}{5}{3}{187}{ANOVA output, deconstructed}}\headcommand {\beamer@subsectionpages {185}{186}}
+\headcommand {\slideentry {5}{3}{1}{187/190}{ANOVA output, deconstructed}{0}}
+\headcommand {\beamer@framepages {187}{190}}
+\headcommand {\slideentry {5}{3}{2}{191/196}{ANOVA output, deconstructed}{0}}
+\headcommand {\beamer@framepages {191}{196}}
+\headcommand {\slideentry {5}{3}{3}{197/201}{ANOVA output, deconstructed}{0}}
+\headcommand {\beamer@framepages {197}{201}}
+\headcommand {\slideentry {5}{3}{4}{202/203}{ANOVA output, deconstructed}{0}}
+\headcommand {\beamer@framepages {202}{203}}
+\headcommand {\slideentry {5}{3}{5}{204/206}{ANOVA output, deconstructed}{0}}
+\headcommand {\beamer@framepages {204}{206}}
+\headcommand {\slideentry {5}{3}{6}{207/208}{ANOVA output, deconstructed}{0}}
+\headcommand {\beamer@framepages {207}{208}}
+\headcommand {\slideentry {5}{3}{7}{209/210}{ANOVA output, deconstructed}{0}}
+\headcommand {\beamer@framepages {209}{210}}
+\headcommand {\slideentry {5}{3}{8}{211/212}{ANOVA output, deconstructed}{0}}
+\headcommand {\beamer@framepages {211}{212}}
+\headcommand {\slideentry {5}{3}{9}{213/214}{ANOVA output, deconstructed}{0}}
+\headcommand {\beamer@framepages {213}{214}}
+\headcommand {\beamer@subsectionentry {0}{5}{4}{215}{Checking conditions}}\headcommand {\beamer@subsectionpages {187}{214}}
+\headcommand {\slideentry {5}{4}{1}{215/216}{Checking conditions}{0}}
+\headcommand {\beamer@framepages {215}{216}}
+\headcommand {\slideentry {5}{4}{2}{217/217}{Checking conditions}{0}}
+\headcommand {\beamer@framepages {217}{217}}
+\headcommand {\slideentry {5}{4}{3}{218/218}{Checking conditions}{0}}
+\headcommand {\beamer@framepages {218}{218}}
+\headcommand {\beamer@subsectionentry {0}{5}{5}{219}{Multiple comparisons \& Type 1 error rate}}\headcommand {\beamer@subsectionpages {215}{218}}
+\headcommand {\slideentry {5}{5}{1}{219/222}{Multiple comparisons \& Type 1 error rate}{0}}
+\headcommand {\beamer@framepages {219}{222}}
+\headcommand {\slideentry {5}{5}{2}{223/225}{Multiple comparisons \& Type 1 error rate}{0}}
+\headcommand {\beamer@framepages {223}{225}}
+\headcommand {\slideentry {5}{5}{3}{226/227}{Multiple comparisons \& Type 1 error rate}{0}}
+\headcommand {\beamer@framepages {226}{227}}
+\headcommand {\slideentry {5}{5}{4}{228/228}{Multiple comparisons \& Type 1 error rate}{0}}
+\headcommand {\beamer@framepages {228}{228}}
+\headcommand {\slideentry {5}{5}{5}{229/229}{Multiple comparisons \& Type 1 error rate}{0}}
+\headcommand {\beamer@framepages {229}{229}}
+\headcommand {\slideentry {5}{5}{6}{230/234}{Multiple comparisons \& Type 1 error rate}{0}}
+\headcommand {\beamer@framepages {230}{234}}
+\headcommand {\slideentry {5}{5}{7}{235/240}{Multiple comparisons \& Type 1 error rate}{0}}
+\headcommand {\beamer@framepages {235}{240}}
+\headcommand {\beamer@partpages {1}{240}}
+\headcommand {\beamer@subsectionpages {219}{240}}
+\headcommand {\beamer@sectionpages {163}{240}}
+\headcommand {\beamer@documentpages {240}}
+\headcommand {\def \inserttotalframenumber {89}}

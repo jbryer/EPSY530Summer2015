@@ -1,0 +1,65 @@
+---
+title: "Lab 0: Introduction to R and RStudio"
+author: "Jason Bryer"
+output: html_document
+---
+
+```{r}
+source("http://www.openintro.org/stat/data/present.R")
+source("http://www.openintro.org/stat/data/arbuthnot.R")
+```
+
+#### 1. What years are included in this data set? What are the dimensions of the data frame and what are the variable or column names?
+
+Column Names: 
+
+```{r}
+names(present)
+```
+
+Years:
+
+```{r}
+unique(present$year)
+```
+
+Dimensions: 
+
+```{r}
+dim(present)
+```
+
+
+#### 2. How do these counts compare to Arbuthnot’s? Are they on a similar scale?
+
+```{r}
+head(present)
+head(arbuthnot)
+```
+
+No, these appear to be in different scales. The present dataset has births in millions, the arbuthnot has births in thousands.
+
+
+#### 3. Does Arbuthnot’s observation about boys being born in greater proportion than girls hold up in the U.S.?
+
+
+#### 4. Make a plot that displays the boy-to-girl ratio for every year in the data set. What do you see?
+
+```{r}
+present$boysToGirls <- present$boys / present$girls
+plot(x=present$year, y=present$boysToGirls, type='l', xlab='Year', ylab='Ratio of Boys-to-Girls')
+```
+
+#### 5. In what year did we see the most total number of births in the U.S.? You can refer to the help files or the R reference card (http://cran.r-project.org/doc/contrib/Short-refcard.pdf) to find helpful commands.
+
+```{r}
+present$total <- present$boys + present$girls
+barplot(present$total, names.arg=present$year)
+max(present$total)
+present[1,]
+present[,1]
+present[present$total == max(present$total),]
+```
+
+The year 1961 had the most total births with 4,268,326.
+

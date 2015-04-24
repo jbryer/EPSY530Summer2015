@@ -1,0 +1,52 @@
+---
+title: "Intro to Visualziations with Legos"
+author: "Jason Bryer"
+date: "September 15, 2014"
+output: html_document
+---
+
+### Introduction
+
+This document introduces many of the graph types using [`ggplot2`](http://ggplot2.org/) the Lego package developed by [Sean Kross](https://github.com/seankross/lego). The `lego` package contains a data frame, `lego` containing all Lego sets from 1970 to 2014.
+
+```{r install, eval=FALSE}
+install.packages(c('devtools','ggplot2'), repos='http://cran.r-project.org')
+devtools::install_github("seankross/lego")
+```
+
+```{r setup}
+library(ggplot2)
+library(lego)
+```
+
+```{r}
+data(lego)
+str(lego)
+```
+
+The `legosets` data frame contains `r nrow(legosets)` rows with `r ncol(legosets)` columns with information about every Lego set manufactured between `r min(legosets$Year)` and `r max(legosets$Year). 
+
+### Qualitiative Variables
+
+#### Bar Plots
+
+#### Side-by-Side Boxplots
+=
+
+### Quantitative Variables
+
+#### Scatterplots
+
+#### Dot Plots
+
+##### Stacked Dot Plots
+
+
+#### Histograms
+
+Bin widths.
+
+#### Boxplots
+
+
+

@@ -1,0 +1,49 @@
+\documentclass[slidestop,compress,mathserif]{beamer}
+
+%%% To get handouts:
+%\documentclass[11pt,containsverbatim,handout]{beamer}
+%% include when making handouts
+%\usepackage{pgfpages}
+%\pgfpagesuselayout{4 on 1}[letterpaper,landscape,border shrink=5mm]
+
+%%% To get rid of solutions on handouts:
+\newcommand{\soln}[1]{\textit{#1}}				% For slides
+%\newcommand{\soln}[1]{ }	% For handouts
+
+\input{../lec_style.tex}
+
+%%%%%%%%%%%%%%%%%%%%%
+
+\title[Chp 1: Intro. to data]{Chapter 1: Introduction to data}
+\author{OpenIntro Statistics, 2nd Edition}
+\date{}
+\institute{}
+
+%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+
+%%%%%%%%%%%%%%%%%%%%%
+
+% Title Page
+
+\begin{frame}[plain]
+
+\titlepage
+
+\end{frame}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\input{1-1_case_study/1-1_case_study}
+\input{1-2_data_basics/1-2_data_basics}
+\input{1-3_data_collection_principles/1-3_data_collection_principles}
+\input{1-4_obs_studies_sampling/1-4_obs_studies_sampling}
+\input{1-5_experiments/1-5_experiments}
+\input{1-6_numerical_data/1-6_numerical_data}
+\input{1-7_categorical_data/1-7_categorical_data}
+\input{1-8_gender_discrimination/1-8_gender_discrimination}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\end{document}
