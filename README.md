@@ -1,7 +1,8 @@
 ## EPSY 530 - Statistics I - Summer 2015
 
 **Instructor:** Jason Bryer, Ph.D. [jason@bryer.org](mailto:jason@bryer.org?Subject=EPSY530)  
-**Website:** [github.com/jbryer/EPSY530Summer2015](https://github.com/jbryer/EPSY530Summer2015)  
+**TA:** Justin Chase [jpchase@albany.edu](mailto:jpchase@albany.edu?Subject=EPSY530)  
+**Website:** [epsy530.bryer.org](http://epsy530.bryer.org)  
 **Class Time:** Monday & Wednesday 4:15pm to 7:05pm  
 **Class Location:** Humanities 111  
 **Office Hours:** By appointment  
@@ -26,31 +27,16 @@ A = 93+; A- = 90-92; B+ = 87-89; B = 84-86; B- = 80-83; C+ = 75-79; C = 70-74; D
 
 Date   | Chapter    | Topic                                     | Resources
 -------|:----------:|:------------------------------------------|:--------------------
- | 1.1 to 1.2 | Intro to Data                             | [Chapter 1 Slides](https://github.com/jbryer/EPSY530Fall2014/blob/master/Slides/Chapter1/Chp%201/chp1.pdf?raw=true)
-  |            | *No Class - Labor Day*                    |
-  | 1.3        | Intro to Data                             | 
-  | 1.4 to 1.5 | Intro to Data                             | Lab 0 Due
- |            | Working Lab                               |
- | 1.6 to 1.8 | Intro to data                             | 
- | 2.1 to 2.2 | Probability                               | [Chapter 2 Slides](https://github.com/jbryer/EPSY530Fall2014/blob/master/Slides/Chapter2/Chp%202/chp2.pdf?raw=true)
- | 2.3 to 2.5 | Probability                               | Lab 1 Due
- | 3.1        | Distributions                             | [Chapter 3 Slides](https://github.com/jbryer/EPSY530Fall2014/blob/master/Slides/Chapter3/Chp%203/chp3.pdf?raw=true)<br>[Distribution Calculator](http://spark.rstudio.com/minebocek/dist_calc/)<br>[Probability Tables](https://github.com/jbryer/EPSY530Fall2014/blob/master/Textbook/os2_prob_tables.pdf?raw=true)
-  | 3.2        | Distributions                             | Lab 2 Due
-  | 3.3        | Distributions                             | 
- | 4.1        | Foundation for Inference                  | [Chapter 4 Slides](https://github.com/jbryer/EPSY530Fall2014/blob/master/Slides/Chapter4/Chp%204/chp4.pdf?raw=true)
- | 4.2 to 4.3 | Foundation for Inference                  | 
- | 4.4 to 4.7 | Foundations for Inference                 | Lab 3 Due
- | 5.1 to 5.2 | Inference for Numerical Data              | [Chapter 5 Slides](https://github.com/jbryer/EPSY530Fall2014/blob/master/Slides/Chapter5/Chp%205/chp5.pdf?raw=true) <br />[Shiny App for Error Rates](http://shiny.albany.edu/stat/betaprob)
- | 5.3 to 5.4 | Inference for Numerical Data              | Lab 4 Due<br />[Shiny App for t-distributions](http://shiny.albany.edu/stat/tdist/)
- | 5          | Inference for Numerical Data              | [t-Test Exercise](http://htmlpreview.github.io/?https://github.com/jbryer/EPSY530Fall2014/blob/master/R/t-test-Exercise.html) ([Rmd](https://github.com/jbryer/EPSY530Fall2014/blob/master/t-test-Exercise.Rmd?raw=true), [R](https://github.com/jbryer/EPSY530Fall2014/blob/master/NullHypothesisSetup.R?raw=true))
-  | 6.1 to 6.2 | Inference for Categorical Data            | [Chapter 6 Slides](https://github.com/jbryer/EPSY530Fall2014/blob/master/Slides/Chapter6/Chp%206/chp6.pdf?raw=true)
-  | 6.3 to 6.4 | Inference for Categorical Data            | Lab 5 Due <br /> [Why .05?](https://www.openintro.org/stat/why05.php)
- | 7.1        | Linear Regression                         | [Chapter 7 Slides](https://github.com/jbryer/EPSY530Fall2014/blob/master/Slides/Chapter7/Chp%207/chp7.pdf?raw=true)
- | 7.2        | Linear Regression                         | Lab 6 Due <br /> [Linear Regression PDF](https://github.com/jbryer/EPSY530Fall2014/blob/master/Slides/LinearRegression.pdf?raw=true)
- |            | Linear Regression Exercise                | [Handout](https://rawgithub.com/jbryer/EPSY530Fall2014/master/Resources/LinearRegressionExercise.pdf) <br />[Slides](https://rawgithub.com/jbryer/EPSY530Fall2014/master/Slides/LinearRegressionNYSRC.html)
- | 7.3        | Linear Regression                         |
- |            | Lab Review                                | Lab 7 Due
- |            | Final Exam - Take Home Due                |
+May 27 | 1          | Intro to Data                             | [Chapter 1 Slides](https://github.com/jbryer/EPSY530Fall2014/blob/master/Slides/Chapter1/Chp%201/chp1.pdf?raw=true) <br />Lab 0 In class
+June 1 | 2          | Probability                               | [Chapter 2 Slides](https://github.com/jbryer/EPSY530Fall2014/blob/master/Slides/Chapter2/Chp%202/chp2.pdf?raw=true)
+June 3 | 3          | Distributions                             | [Chapter 3 Slides](https://github.com/jbryer/EPSY530Fall2014/blob/master/Slides/Chapter3/Chp%203/chp3.pdf?raw=true)<br>[Distribution Calculator](http://spark.rstudio.com/minebocek/dist_calc/)<br>[Probability Tables](https://github.com/jbryer/EPSY530Fall2014/blob/master/Textbook/os2_prob_tables.pdf?raw=true)
+June 8 | 4          | Foundation for Inference                  | [Chapter 4 Slides](https://github.com/jbryer/EPSY530Fall2014/blob/master/Slides/Chapter4/Chp%204/chp4.pdf?raw=true)
+June 10 | 5         | Inference for Numerical Data              | [Chapter 5 Slides](https://github.com/jbryer/EPSY530Fall2014/blob/master/Slides/Chapter5/Chp%205/chp5.pdf?raw=true) <br />[Shiny App for Error Rates](http://shiny.albany.edu/stat/betaprob)<br />[Shiny App for t-distributions](http://shiny.albany.edu/stat/tdist/) <br />[t-Test Exercise](http://htmlpreview.github.io/?https://github.com/jbryer/EPSY530Fall2014/blob/master/R/t-test-Exercise.html) ([Rmd](https://github.com/jbryer/EPSY530Fall2014/blob/master/t-test-Exercise.Rmd?raw=true), [R](https://github.com/jbryer/EPSY530Fall2014/blob/master/NullHypothesisSetup.R?raw=true))
+June 15  | 6        | Inference for Categorical Data            | [Chapter 6 Slides](https://github.com/jbryer/EPSY530Fall2014/blob/master/Slides/Chapter6/Chp%206/chp6.pdf?raw=true) <br /> [Why .05?](https://www.openintro.org/stat/why05.php)
+June 17 | 7          | Linear Regression                         | [Chapter 7 Slides](https://github.com/jbryer/EPSY530Fall2014/blob/master/Slides/Chapter7/Chp%207/chp7.pdf?raw=true) <br /> [Linear Regression PDF](https://github.com/jbryer/EPSY530Fall2014/blob/master/Slides/LinearRegression.pdf?raw=true)
+June 22 |            | Linear Regression Exercise                | [Handout](https://rawgithub.com/jbryer/EPSY530Fall2014/master/Resources/LinearRegressionExercise.pdf) <br />[Slides](https://rawgithub.com/jbryer/EPSY530Fall2014/master/Slides/LinearRegressionNYSRC.html)
+June 24 |     | Review       |
+June 29 |     | Final Exam - Take Home Due       |
 
 
 ### Textbook
