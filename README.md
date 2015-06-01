@@ -92,6 +92,8 @@ These mini projects will have you explore statistical topics using R. For each p
 
 ### Software
 
+*An RStudio will be available through the web (Google Chrome is recommended) at [http://learnrstats.com/rstudio](http://learnrstats.com/rstudio). You will be given a username and password in class. However, it is highly recommended that you also install R and RStudio on your computer if possible.*
+
 Although this course will emphasize statistical concepts, we will make use of [R](http://r-project.org), an open source statistics program and language. Be sure to [install R](http://cran.r-project.org/) and [RStudio](http://rstudio.com) on your own computers within the first week of the class.
 
 * R - [Windows](http://cran.r-project.org/bin/windows/base/) or [Mac](http://cran.r-project.org/bin/macosx/)
