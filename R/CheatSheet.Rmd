@@ -1,0 +1,56 @@
+---
+title: "R Cheat Sheet"
+author: "Jason M. Bryer, Ph.D."
+date: "June 10, 2015"
+output: html_document
+---
+
+```{r loaddata}
+load('../Data/titanic.Rda')
+```
+
+
+```{r}
+str(titanic)
+head(titanic)
+tail(titanic)
+dim(titanic)
+nrow(titanic)
+ncol(titanic)
+length(titanic$pclass)
+```
+
+
+# Descriptive Statistics
+
+```{r}
+mean(titanic$age, na.rm=TRUE)
+sd(titanic$age, na.rm=TRUE)
+median(titanic$age, na.rm=TRUE)
+IQR(titanic$age, na.rm=TRUE)
+summary(titanic$age, na.rm=TRUE)
+```
+
+
+```{r}
+table(titanic$survived, useNA='ifany')
+table(titanic$sex, titanic$survived, useNA='ifany')
+
+prop.table(table(titanic$survived))
+prop.table(table(titanic$pclass, titanic$survived))
+prop.table(table(titanic$pclass, titanic$survived), 1)
+prop.table(table(titanic$pclass, titanic$survived), 2)
+
+```
+
+```{r}
+hist(titanic$age)
+boxplot(titanic$age)
+boxplot(titanic$age ~ titanic$survived)
+
+barplot(table(titanic$survived))
+mosaicplot(table(titanic$pclass, titanic$survived))
+
+plot(titanic$age, titanic$fare)
+```
+
